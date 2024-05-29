@@ -1,1 +1,5 @@
-Âsâf?iwfàiàiàw
+public class LinhTinh(){
+ 	 public static void main(String[] args){
+		System.out.printf("Linh Tinh");
+	}
+}
